@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "Web Developer": [
+                {
+                    "question": "What is your  UL AND OL in HTML ?"
+                },
+                {
+                    "question": "What iS MVC stands for ?"
+                },
+                {
+                    "question": "Can you explain the difference between a front-end and back-end developer?"
+                }
+            ]
+        },
+        {
+            "Data Scientist": [
+                {
+                    "question": "What is the most commonly python library used for machine learning tasks?"
+                },
+                {
+                    "question": "what  approach is used for  features selection?"
+                },
+                {
+                    "question": "Which of the following machine learning categories needs labeled data to make classifications?"
+                }
+            ]
+        }
+    ]
+}
