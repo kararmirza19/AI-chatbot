@@ -1,2 +1,10 @@
 # AI-chatbot
-Trained AI CHATBOT with facial Detection system for interview 
+ AI Chatbot with facial Detection system for interview 
+
+RequirementS
+OpenCV
+TextBloP
+Python 
+flask
+jupyter Notebook
+
