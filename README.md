@@ -1,7 +1,7 @@
 # AI-chatbot
- AI Chatbot with facial Detection system for interview 
+ AI Chatbot with facial Detection system for interviewing candidates (Usefull for determining new talents) .
 
-RequirementS
+Requirements
 OpenCV
 TextBloP
 Python 
