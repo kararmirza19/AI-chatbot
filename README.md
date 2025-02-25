@@ -1,5 +1,5 @@
 # AI-chatbot
- AI Chatbot with facial Detection system for interviewing candidates (Usefull for determining new talents) .
+ AI Recruitment  Chatbot with facial Detection system for interviewing candidates (Usefull for determining new talents) .
 
 Requirements
 OpenCV,
